@@ -1,0 +1,22 @@
+
+.colour{
+    background-color: black;
+    margin-top: 40px;
+    width: 100%;
+    margin-left: 5px;
+    height: 300px;
+    text-align: center;
+    align-items: center;
+    
+}
+.text-color{
+    color: goldenrod;
+}
+.icon-color{
+    color: skyblue;
+}
+.btn{
+    color: white;
+    border-radius: 10px;
+    background-color: hotpink;
+}
